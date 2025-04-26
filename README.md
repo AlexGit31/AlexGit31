@@ -1,44 +1,47 @@
-# Welcome to my GitHub
+# 👋 Welcome!
 
-I am Alexis, a student at Polytech Lille, passionate about data, artificial intelligence, applied mathematics, and technology.  
-I enjoy building projects that combine programming, data analysis, automation, and mathematical modeling.
-
----
-
-## Professional interests
-
-I am developing skills for careers in data science, quantitative finance, big data engineering, and artificial intelligence.  
-My focus is on using programming, statistics, and modeling to solve real-world problems and create useful tools.
+I'm **Alexis**, a student at Polytech Lille passionate about **data**, **applied mathematics**, **AI**, and **technology**.  
+I enjoy building projects that combine **programming**, **automation**, and **data modeling**.
 
 ---
 
-## Skills
+## 🛠️ Languages and Tools
 
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), C++, Java
-- **Tools**: Git/GitHub, Bash/Shell, Neovim, macOS Automation
-- **Data**: Data analysis, machine learning, time series
-- **Mathematics**: Probability, statistics, stochastic processes
-- **Documentation**: Markdown, LaTeX
-
----
-
-## Projects
-
-(Coming soon, as I finish preparing my repositories for public release.)
-
-- 📈 Cryptocurrency time series analysis
-- 🎮 OBS custom integration for streaming chess games
-- 💡 Übersicht widgets: RSS feeds, real-time crypto prices, system monitors
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-## Currently
+## 🎯 Current Focus
 
-I am currently refining my projects, deepening my knowledge in stochastic calculus, and exploring the intersection of data, AI, and finance.
+- Deepening my knowledge in **stochastic calculus** and **machine learning**.
+- Building projects related to **crypto data analysis** and **automated workflows**.
+- Exploring the intersection of **data science**, **finance**, and **AI**.
 
 ---
 
-## Contact
+## 📂 Featured Projects
 
-- LinkedIn: [View my profile](https://linkedin.com/in/...)
-- Personal website: [alexis-portfolio.com](https://alexis-portfolio.com)
+- **Crypto time series analysis** 📈
+- **Custom OBS integrations** for live streaming chess games 🎥
+- **Übersicht widgets** for macOS (RSS feeds, real-time monitoring) 📊
+
+*(More projects will be published soon!)*
+
+---
+
+## 📈 GitHub Stats
+
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent)
+
+---
+
+## 📬 Contact
+
+- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [Portfolio Website](https://alexis-portfolio.com) *(coming soon)*
