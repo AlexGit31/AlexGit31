@@ -1,9 +1,14 @@
-# Welcome!
+ # Welcome to my GitHub
 
-Hi, I'm Alexis, currently studying at Polytech Lille.  
-I'm passionate about combining mathematics, data science, software engineering, and AI to build meaningful solutions.  
+I am Alexis, a student at Polytech Lille, passionate about data, artificial intelligence, applied mathematics, and technology.  
+I enjoy building projects that combine programming, data analysis, automation, and mathematical modeling.
 
-While I am strongly interested in working in quantitative finance, I am also open to opportunities in data science, data analysis, big data engineering, and AI-related fields.
+---
+
+## Professional interests
+
+I am developing skills for careers in data science, quantitative finance, big data engineering, and artificial intelligence.  
+My focus is on using programming, statistics, and modeling to solve real-world problems and create useful tools.
 
 ---
 
