@@ -39,17 +39,8 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ## 📂 My Projects
 
-- [Crypto Time Series Analysis](https://github.com/your-username/crypto-time-series) 📈  
-  *Analyzing cryptocurrency data and building predictive models.*
-
-- [Chess Streaming Layouts (OBS)](https://github.com/your-username/chess-stream-obs) ♟️  
-  *Creating customized live streaming layouts for chess.com with dynamic elements.*
-
-- [Übersicht Widgets](https://github.com/your-username/ubersicht-widgets) 🖥️  
+- [Übersicht Widgets](https://github.com/AlexGit31/ubersicht-widget-crypto/tree/main) 🖥️  
   *Custom macOS widgets for live RSS feeds and real-time monitoring.*
-
-- [Automated Crypto Market Analysis Bot](https://github.com/your-username/crypto-bot) 🤖  
-  *Real-time data tracking, analysis, and notification system.*
 
 *(More projects to be added soon!)*
 
