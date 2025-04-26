@@ -1,38 +1,44 @@
-<h1 align="center">Salut 👋, moi c'est Alexis</h1>
+# Welcome to my GitHub
 
-🎓 Étudiant à Polytech Lille | 🚀 Passionné par l'IA, la finance quantitative et les maths appliquées  
-💻 Développeur curieux, j’aime concevoir des projets concrets mêlant programmation, modélisation et automation
-
----
-
-### 💼 Objectif pro  
-Je me forme actuellement pour devenir **quant**, à l'intersection des mathématiques, de l'intelligence artificielle et de la finance.  
-Je développe aussi des outils pratiques sur macOS (widgets Übersicht, automatisation OBS, etc.) et je travaille sur des modèles d'analyse de données financières (crypto, indices...).
+I am Alexis, a student at Polytech Lille, passionate about data, artificial intelligence, applied mathematics, and technology.  
+I enjoy building projects that combine programming, data analysis, automation, and mathematical modeling.
 
 ---
 
-### 🧠 Compétences principales  
-- **Python** · Pandas · NumPy · Matplotlib · Scikit-learn  
-- **C++ / Java** (programmation orientée objet)  
-- **Shell / Bash** · Automatisation macOS  
-- **Git / GitHub** · Neovim · Markdown / LaTeX  
-- **Maths** : probabilités, statistiques, processus stochastiques
+## Professional interests
+
+I am developing skills for careers in data science, quantitative finance, big data engineering, and artificial intelligence.  
+My focus is on using programming, statistics, and modeling to solve real-world problems and create useful tools.
 
 ---
 
-### 📌 Projets récents  
-(à venir ici au fur et à mesure que je rends mes dépôts publics 👇)  
-- 📈 Analyse de séries temporelles crypto  
-- 🎮 Intégration OBS personnalisée pour stream de parties d'échecs  
-- 💡 Widgets Übersicht : flux RSS, prix crypto, etc.
+## Skills
+
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), C++, Java
+- **Tools**: Git/GitHub, Bash/Shell, Neovim, macOS Automation
+- **Data**: Data analysis, machine learning, time series
+- **Mathematics**: Probability, statistics, stochastic processes
+- **Documentation**: Markdown, LaTeX
 
 ---
 
-### 🔍 En ce moment ?  
-Je peaufine mes projets pour les rendre publics, je me plonge dans les intégrales stochastiques, et je construis ma roadmap pour devenir quant.
+## Projects
+
+(Coming soon, as I finish preparing my repositories for public release.)
+
+- 📈 Cryptocurrency time series analysis
+- 🎮 OBS custom integration for streaming chess games
+- 💡 Übersicht widgets: RSS feeds, real-time crypto prices, system monitors
 
 ---
 
-📫 **Me contacter**  
-- LinkedIn : [mon profil ici](https://linkedin.com/in/…)  
-- Site perso : [alexis-portfolio.com](https://alexis-portfolio.com) (à venir)
+## Currently
+
+I am currently refining my projects, deepening my knowledge in stochastic calculus, and exploring the intersection of data, AI, and finance.
+
+---
+
+## Contact
+
+- LinkedIn: [View my profile](https://linkedin.com/in/...)
+- Personal website: [alexis-portfolio.com](https://alexis-portfolio.com)
