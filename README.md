@@ -43,6 +43,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Custom macOS widgets for live RSS feeds and real-time monitoring._
 - [Portfolio Website](https://github.com/AlexGit31/Portfolio) 🌐
 - [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊
+- [Neovim Configuration](https://github.com/AlexGit31/Personal-Neovim)
 
   _(More projects to be added soon!)_
 
