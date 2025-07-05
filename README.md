@@ -44,6 +44,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 - [Portfolio Website](https://github.com/AlexGit31/Portfolio) 🌐
 - [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊
 - [Neovim Configuration](https://github.com/AlexGit31/Personal-Neovim)
+- [Simple Moving Average Strategy Analyzer](https://github.com/AlexGit31/financial-stats)
 
   _(More projects to be added soon!)_
 
