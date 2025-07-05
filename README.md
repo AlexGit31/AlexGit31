@@ -1,4 +1,4 @@
- # Welcome to my GitHub
+# Welcome to my GitHub
 
 I am Alexis, a student at Polytech Lille, passionate about data, artificial intelligence, applied mathematics, and technology.  
 I enjoy building projects that combine programming, data analysis, automation, and mathematical modeling.
@@ -40,8 +40,9 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 ## 📂 My Projects
 
 - [Übersicht Widgets](https://github.com/AlexGit31/ubersicht-widget-crypto/tree/main) 🖥️  
-  *Custom macOS widgets for live RSS feeds and real-time monitoring.*
-
-*(More projects to be added soon!)*
+  _Custom macOS widgets for live RSS feeds and real-time monitoring._
+- [Portfolio Website](https://github.com/AlexGit31/Portfolio) 🌐
+- [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊
+  _(More projects to be added soon!)_
 
 ---
