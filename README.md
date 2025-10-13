@@ -39,13 +39,36 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ## 📂 My Projects
 
-- [Übersicht Widgets](https://github.com/AlexGit31/ubersicht-widget-crypto/tree/main) 🖥️  
-  _Custom macOS widgets for live RSS feeds and real-time monitoring._
-- [Portfolio Website](https://github.com/AlexGit31/Portfolio) 🌐
-- [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊
-- [Neovim Configuration](https://github.com/AlexGit31/Personal-Neovim)
-- [Simple Moving Average Strategy Analyzer](https://github.com/AlexGit31/financial-stats)
+### 🎓 School Projects
 
-  _(More projects to be added soon!)_
+> Academic and collaborative works from Polytech Lille and related studies.
+
+- [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊  
+  _Exploring advanced algorithms and optimization techniques in graph theory (grade : 19.5/20)_
 
 ---
+
+### 💡 Personal Projects
+
+#### 🧠 Deep Reinforcement Learning
+
+- [CartPole Agent (DQN)](https://github.com/AlexGit31/CartPole-DeepRL) 🧩  
+  _Implementation of a DQN-based agent with replay buffer and ε-greedy policy._
+
+#### 💹 Quantitative Finance
+
+- [Simple Moving Average Strategy Analyzer](https://github.com/AlexGit31/financial-stats) 📈  
+  _Analyze trading performance using moving averages and statistical indicators._
+- [Cripto Widgets](https://github.com/AlexGit31/ubersicht-widget-crypto/tree/main) 🖥️  
+  _Custom macOS widgets for live crypto prices and real-time monitoring._
+
+#### 🧰 Tools & Customization
+
+- [Portfolio Website](https://github.com/AlexGit31/Portfolio) 🌐  
+  _Personal portfolio built with modern web technologies._
+- [Neovim Configuration](https://github.com/AlexGit31/Personal-Neovim) ⚙️  
+  _Lightweight and efficient Neovim setup for development._
+
+---
+
+> 🧭 _Currently expanding my Deep RL and Quant Finance sections — more to come soon!_
