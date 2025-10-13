@@ -45,7 +45,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 - [Graphs Optimisation Project](https://github.com/AlexGit31/Projet-Graphe) 📊  
   _Exploring advanced algorithms and optimization techniques in graph theory (grade : 19.5/20)_
-- [Interactive Dashboard](https://github.com/AlexGit31/school-dashboard)
+- [Interactive Dashboard](https://github.com/AlexGit31/school-dashboard)  
   _A dashboard highlighting the inequalities in salaries between the genders (grade : 17.5/20)_
 
 ---
