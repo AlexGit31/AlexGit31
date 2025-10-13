@@ -54,7 +54,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 #### 🧠 Deep Reinforcement Learning
 
-- [CartPole Agent (DQN)](https://github.com/AlexGit31/CartPole-DeepRL) 🧩  
+- [CartPole Agent (DQN)](https://github.com/AlexGit31/cartPole) 🧩  
   _Implementation of a DQN-based agent with replay buffer and ε-greedy policy._
 
 #### 💹 Quantitative Finance
