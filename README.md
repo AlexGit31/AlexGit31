@@ -12,6 +12,16 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ---
 
+## My interests
+
+- Deep Reinforcement Learning
+- Bandits
+- Online Learning
+- High Performance Calculus
+- Mixture of Experts
+  
+---
+
 ## 📫 Find me
 
 [![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-portfolio.com)
