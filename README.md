@@ -47,6 +47,10 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Exploring advanced algorithms and optimization techniques in graph theory (grade : 19.5/20)_
 - [Interactive Dashboard](https://github.com/AlexGit31/school-dashboard)  
   _A dashboard highlighting the inequalities in salaries between the genders (grade : 17.5/20)_
+- [Ising Model - MCMC - HPC](https://github.com/AlexGit31/Ising-MCMC-HPC)  
+  _Simulation of the Sising Model using MCMC methodes and HPC with cuda_
+- [Page Rank algorithm & PPR](https://github.com/AlexGit31/PageRank)
+  _Page Rank algorithm and Personalized Page Rank on real data and results analysis (grade : 20/20)_
 
 ---
 
@@ -72,5 +76,3 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Lightweight and efficient Neovim setup for development._
 
 ---
-
-> 🧭 _Currently expanding my Deep RL and Quant Finance sections — more to come soon!_
