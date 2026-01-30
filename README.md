@@ -60,7 +60,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _A dashboard highlighting the inequalities in salaries between the genders (grade : 17.5/20)_
 - [Ising Model - Monte Carlo - High Performance Calculus](https://github.com/AlexGit31/Ising-MCMC-HPC)  
   _Stochastic Processus simulations (MCMC) accelerated with Nvidia GPU_
-- [Page Rank algorithm & PPR](https://github.com/AlexGit31/PageRank)
+- [Page Rank algorithm & PPR](https://github.com/AlexGit31/PageRank)  
   _Page Rank algorithm and Personalized Page Rank on real data and results analysis (grade : 20/20)_
 
 ### 💡 Personal Projects
