@@ -12,6 +12,16 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ---
 
+## My interests
+
+- Deep Reinforcement Learning
+- Bandits
+- Online Learning
+- High Performance Calculus
+- Mixture of Experts
+
+---
+
 ## 📫 Find me
 
 [![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-portfolio.com)
@@ -31,6 +41,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-00599C?style=for-the-badge&logo=linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
@@ -47,12 +58,10 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Exploring advanced algorithms and optimization techniques in graph theory (grade : 19.5/20)_
 - [Interactive Dashboard](https://github.com/AlexGit31/school-dashboard)  
   _A dashboard highlighting the inequalities in salaries between the genders (grade : 17.5/20)_
-- [Ising Model - MCMC - HPC](https://github.com/AlexGit31/Ising-MCMC-HPC)  
-  _Simulation of the Sising Model using MCMC methodes and HPC with cuda_
+- [Ising Model - Monte Carlo - High Performance Calculus](https://github.com/AlexGit31/Ising-MCMC-HPC)  
+  _Stochastic Processus simulations accelerated with Nvidia GPU_
 - [Page Rank algorithm & PPR](https://github.com/AlexGit31/PageRank)
   _Page Rank algorithm and Personalized Page Rank on real data and results analysis (grade : 20/20)_
-
----
 
 ### 💡 Personal Projects
 
