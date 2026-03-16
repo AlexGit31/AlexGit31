@@ -17,7 +17,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 - Deep Reinforcement Learning
 - Bandits
 - Online Learning
-- High Performance Calculus
+- High Performance Computing
 - Mixture of Experts
 
 ---
@@ -68,19 +68,26 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 #### Deep Learning
 
 - [Cuda and C++ Tranformer](https://github.com/AlexGit31/Transformer-Cuda-Framework)  
-  _I coded my own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Bloc_
+  _My own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Bloc._  
   _I made my own kernels with cuda to compute faster than PyTorch, it was extremly educational!_
+
+- [Derivative LLM](https://github.com/AlexGit31/Derivative-LLM)  
+  _Small project : I trained a transformer using Pytorch to derivate simple Polynomials_
+
+- [Derivative Agent](https://github.com/AlexGit31/Derivative-Agent)  
+  _Small project : I fine-tuned an LLM into an Agent able to derivate Polynomials_  
+  _This project use an API of my project Derivative LLM_
 
 #### HPC
 
 - [Chess Engine](https://github.com/AlexGit31/NeuralBitChess)  
   _One of my favorite personal project, I implemented my own chess engine using very advanced
-  computation technics and low level machine instructions!_
+  computation technics and low level machine instructions!_  
   _The computation power of this engine running on CPU is close to Stockfish (when used on CPU)!_
 
 - [3D Real Time Ising Simulation](https://github.com/AlexGit31/Ising-3D-Optimized)  
-  _After implementing a 2D version of the Ising model as a School Project, I wanted to go further. That is how
-  I ended up coding a 3D version still using the Metropolis Hasting algorithm but optimized with bits instructions and OpenMP._
+  _After implementing a 2D version of the Ising model as a School Project, I wanted to go further!_  
+  _with low level bits instructions and OpenMP!_  
   _With it, you can run a simulation in real time and adjust the temperature and the magnetic field._
 
 #### 🧠 Deep Reinforcement Learning
