@@ -65,7 +65,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ### 💡 Personal Projects
 
-#### Deep Learning
+#### ✨ Deep Learning
 
 - [Cuda and C++ Tranformer](https://github.com/AlexGit31/Transformer-Cuda-Framework)  
   _My own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Bloc._  
@@ -78,7 +78,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Small project : I fine-tuned an LLM into an Agent able to derivate Polynomials_  
   _This project use an API of my project Derivative LLM_
 
-#### HPC
+#### 💻 HPC
 
 - [Chess Engine](https://github.com/AlexGit31/NeuralBitChess)  
   _One of my favorite personal project, I implemented my own chess engine using very advanced
