@@ -68,7 +68,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 #### ✨ Deep Learning
 
 - [Cuda and C++ Tranformer](https://github.com/AlexGit31/Transformer-Cuda-Framework)  
-  _My own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Bloc._  
+  _My own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Block._  
   _I made my own kernels with cuda to compute faster than PyTorch, it was extremly educational!_
 
 - [Derivative LLM](https://github.com/AlexGit31/Derivative-LLM)  
