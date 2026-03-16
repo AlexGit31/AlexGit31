@@ -59,11 +59,29 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 - [Interactive Dashboard](https://github.com/AlexGit31/school-dashboard)  
   _A dashboard highlighting the inequalities in salaries between the genders (grade : 17.5/20)_
 - [Ising Model - Monte Carlo - High Performance Calculus](https://github.com/AlexGit31/Ising-MCMC-HPC)  
-  _Stochastic Processus simulations (MCMC) accelerated with Nvidia GPU_
+  _Stochastic Processus simulations (MCMC) accelerated with Nvidia GPU (grade : 19/20)_
 - [Page Rank algorithm & PPR](https://github.com/AlexGit31/PageRank)  
   _Page Rank algorithm and Personalized Page Rank on real data and results analysis (grade : 20/20)_
 
 ### 💡 Personal Projects
+
+#### Deep Learning
+
+- [Cuda and C++ Tranformer](https://github.com/AlexGit31/Transformer-Cuda-Framework)  
+  _I coded my own deep learning framework with MLP, Embedding Layer, Attention Layer, Tranformer Bloc_
+  _I made my own kernels with cuda to compute faster than PyTorch, it was extremly educational!_
+
+#### HPC
+
+- [Chess Engine](https://github.com/AlexGit31/NeuralBitChess)  
+  _One of my favorite personal project, I implemented my own chess engine using very advanced
+  computation technics and low level machine instructions!_
+  _The computation power of this engine running on CPU is close to Stockfish (when used on CPU)!_
+
+- [3D Real Time Ising Simulation](https://github.com/AlexGit31/Ising-3D-Optimized)  
+  _After implementing a 2D version of the Ising model as a School Project, I wanted to go further. That is how
+  I ended up coding a 3D version still using the Metropolis Hasting algorithm but optimized with bits instructions and OpenMP._
+  _With it, you can run a simulation in real time and adjust the temperature and the magnetic field._
 
 #### 🧠 Deep Reinforcement Learning
 
