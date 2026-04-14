@@ -110,3 +110,20 @@ My focus is on using programming, statistics, and modeling to solve real-world p
   _Lightweight and efficient Neovim setup for development._
 
 ---
+
+## 🔬 Research & Mathematics
+
+During my research at the CRISTAL Laboratory (Polytech Lille), I studied Ordinary Differential Polynomials (PODEs) that do not admit Formal Power Series (FPS) solutions but can be solved using bi-exponent Puiseux series.
+
+### The $\mathcal{P}_{(3/2, 1)}$ Class (Fundamental Case)
+I established the exact conditions for a cubic-quadratic PODE to admit these fractional solutions. 
+
+**Theorem:** For any $(a, b, c) \in \mathbb{R}^3$ with $a \neq 0$ and $c/a < 0$, the non-linear differential equation:
+
+$$a\dot{z}^3 + b\dot{z}^2 + c z - \frac{4b^3}{27a^2} = 0$$
+
+admits exactly two bi-exponent Puiseux series solutions of the form $\overline{z} = \alpha x + \beta x^{3/2}$, given by the explicit formula:
+
+$$\overline{z}^{\pm}(x) = -\frac{2b}{3a}x \pm \sqrt{-\frac{8c}{27a}}x^{3/2}$$
+
+I also generalized this to an arbitrary family $\mathcal{P}_{(p,q)}$ parameterized by its Puiseux exponents using differential Newton polygons, proving universally that $p=m/(m-1)$ and $q=n/(m-1)$.
