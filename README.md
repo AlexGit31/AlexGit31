@@ -24,7 +24,7 @@ My focus is on using programming, statistics, and modeling to solve real-world p
 
 ## 📫 Find me
 
-[![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-portfolio.com)
+[![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexgit31.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
 
 ---
